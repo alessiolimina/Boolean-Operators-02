@@ -13,7 +13,7 @@ public class Start {
         boolean b = false;
         int c = 2;
         char d = '2';
-        System.out.println("Considering a=true, b=false,int c=2, char d='2':(!a || !b) || c == d: " + ((!a || !b) || c == d));
+        System.out.println("(!a || !b) || c == d: " + ((!a || !b) || c == d));
 
         System.out.println("------------------------------------");
 
